@@ -18,8 +18,6 @@ chmod +x server-stats.sh
 ./server-stats.sh
 
 ## 📸 Output
-## 📸 Exemplo de Saída
-
 ```text
 =================================================
 Total CPU Usage
